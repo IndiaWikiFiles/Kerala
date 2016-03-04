@@ -1,0 +1,127 @@
+{{Infobox settlement
+|settlement_type=Town
+|[[Census 2011]] Location Code=627884
+|native_name=Madathumpady (CT)
+|subdivision_name3=Kodungallur
+|subdivision_name2=Thrissur
+|subdivision_name1=Kerala
+|Division=
+|subdivision_type2=[[Thrissur]]
+|subdivision_type3=[[Kodungallur]]
+|Nearest city=[[Thrissur (m corp.)]]
+|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
+|| longd = xx | longm = xx | longs = xx | longEW = E=
+|pushpin_label_position=right
+|Area=4.08
+|elevation_m=
+|population_total=4294
+|population_as_of=2011
+|population_density=1052
+|population_blank1=2113
+|population_blank2=2181
+|female_per_1000_male=1032
+|native_name_lang=[[Malayalam]]
+}}
+
+== Madathumpady (CT) (627884) ==
+
+Madathumpady (CT) is a town in the [[Kodungallur]] taluka of [[Thrissur]] district with an area of 4.08 sq. km. and harbouring 1098 households with total population of 4294 as per the 2011 Census. The district headquarter [[Thrissur]] is at a distance of 40 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 276 km. Male population is 2113 and female population is 2181. Scheduled Caste population is 568 and Scheduled Tribes population is 15. Census Location Code of the town is 627884<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
+
+Population wise class of the town is Class VI (population_total < 5,000).
+The civic status of the town is 'Census Town'.
+
+The nearest city with population more than 1 lakh is Thrissur (m corp.) at a distance of 40 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 40 km. Railway station is at Chalakudy at a distance of 20 km.
+
+
+== Weather ==  
+* Rainfall (mm.): 2767 
+* Maximum Temperature (in centigrade): 33
+* Minimum Temperature (in centigrade): 24
+
+
+== Literacy ==  
+* Total literate population: 3726
+* Literate male population: 1858 (87.93%)
+* Literate female population: 1868 (85.65%)
+
+
+== Sanitation and Drinking Water ==  
+The town has open and closed drainage system.
+The capacity of the water supply system is 100 kilo-litres.
+
+The nearest fire fighting service is at Chalakudy (20 km) .
+
+
+== Health Services ==
+The nearest Allopathic hospital facility is at 9 km .
+The nearest Alternative Medicine hospital is at 9 km .
+There is 1 Dispensary / Health Centre in the town.
+There is 1 Family Welfare Centre in the town.
+The nearest Maternity and Child Welfare Centre is at 9 km .
+The nearest Maternity Home is at 20 km .
+The nearest T.B. clinic is at 40 km .
+The nearest Nursing Home is at  km .
+The nearest Veterinary hospital is at 20 km .
+The nearest Mobile health clinic is at 20 km .
+The nearest Other medical amenities is at 20 km .
+There are 3 Non-Government out-patient facilitys in the town.
+
+
+There are 5 Non-Government medicine shops in the town.
+
+
+== Educational Facilities ==
+There is 1 private [[Primary School]] in the town.The nearest private [[Primary School]] is at  (0 km) .
+The nearest private Middle School is at Poyya (4 km) .
+The nearest private [[Secondary School]] is at Poyya (4 km) .
+The nearest private [[Senior Secondary School]] is at Poyya (6 km) .
+ 
+ 
+ 
+ 
+ 
+The nearest private Degree College of Arts, Science and Commerce is at Irinjalakuda (11 km) .
+The nearest government Degree College - Law is at Thrissur (40 km) .
+The nearest government Degree College - University is at Mannuthy (28 km) .
+ 
+The nearest government Medical College is at Thrissur (40 km) .
+The nearest government Engineering College is at Kuruvilassery (9 km) .
+The nearest government Management Institute is at Thrissur (40 km) .
+The nearest private Polytechnic is at Kallettumkara (25 km) .
+ 
+The nearest government Non-formal Training Centre is at Irinjalakuda (11 km) .
+The nearest private Special School for Disabled is at Irinjalakuda (11 km) .
+The nearest private other educational facilities is at Irinjalakuda (11 km) .
+
+
+== Facilities ==
+The nearest private Orphanage Home is at Kodungallur (9 km) .
+The nearest government Working Women's Hostel is at Thrissur (40 km) .
+The nearest private Old Age Home is at Kodungallur (9 km) .
+The nearest private stadium is at Irinjalakuda (11 km) .
+The nearest private Cinema Theatre is at Mala (5 km) .
+The nearest government Auditorium / Community Hall is at Kodungallur (9 km) .
+There is 1 government Public Library in the town.The nearest private Public Library is at  (0 km) .
+
+
+== Manufacturing ==
+Madathumpady (CT) is engaged in the manufacturing of following items (in decreasing order of importance): Rice,Coconut oil
+
+
+== Market and Banking ==
+
+There is 1 Private Commercial Bank in the town.
+
+
+There is 1 Non Agricultural Credit Society in the town.
+
+
+[[Categories:Thrissur]]
+[[Categories:Kodungallur]]
+[[Categories:Thrissur district towns]]
+
+
+== References ==
+{{Reflist}}
+
+

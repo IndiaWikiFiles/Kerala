@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=628256
-|native_name=Haripad (CT)
-|subdivision_name3=Karthikappally
-|subdivision_name2=Alappuzha
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Alappuzha]]
-|subdivision_type3=[[Karthikappally]]
-|Nearest city=[[Alappuzha (m + og)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=9.56
-|elevation_m=
-|population_total=15588
-|population_as_of=2011
-|population_density=1630
-|population_blank1=7262
-|population_blank2=8326
-|female_per_1000_male=1146
-|native_name_lang=[[Malayalam]]
+| name=Haripad (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Alappuzha
+| subdivision_type3=Tahsil
+| subdivision_name3=Karthikappally
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=9.56
+| elevation_footnotes=
+| elevation_m=
+| population_total=15588
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1630
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Alappuzha (m + og)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1146
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=88.72%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=628256
+| footnotes=
 }}
 
 == Haripad (CT) (628256) ==
 
+== Demography & Population ==
+
 Haripad (CT) is a town in the [[Karthikappally]] taluka of [[Alappuzha]] district with an area of 9.56 sq. km. and harbouring 4137 households with total population of 15588 as per the 2011 Census. The district headquarter [[Alappuzha]] is at a distance of 32 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 125 km. Male population is 7262 and female population is 8326. Scheduled Caste population is 1137 and Scheduled Tribes population is 42. Census Location Code of the town is 628256<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class IV (population_total 10,000 to 19,999).
+Population wise class of the town is Class IV (Population 10,000 to 19,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Alappuzha (m + og) at a distance of 32 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 90 km. Railway station is at Haripad at a distance of 5 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Alappuzha (m + og) at a dis
 
 
 == Literacy ==  
-* Total literate population: 13829
+* Total literate population: 13829 (88.72%)
 * Literate male population: 6451 (88.83%)
 * Literate female population: 7378 (88.61%)
 
@@ -117,8 +165,8 @@ There is 1 Non Agricultural Credit Society in the town.
 
 
 [[Categories:Alappuzha]]
-[[Categories:Karthikappally]]
-[[Categories:Alappuzha district towns]]
+[[Categories:Towns in Karthikappally tehsil)]]
+[[Categories:Towns in Alappuzha district)]]
 
 
 == References ==

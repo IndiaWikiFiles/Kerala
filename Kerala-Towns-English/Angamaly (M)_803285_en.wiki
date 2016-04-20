@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=803285
-|native_name=Angamaly (M)
-|subdivision_name3=Aluva
-|subdivision_name2=Ernakulam
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Ernakulam]]
-|subdivision_type3=[[Aluva]]
-|Nearest city=[[Kochi (m corp. + og) ]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=28.24
-|elevation_m=
-|population_total=33465
-|population_as_of=2011
-|population_density=1185
-|population_blank1=16547
-|population_blank2=16918
-|female_per_1000_male=1022
-|native_name_lang=[[Malayalam]]
+| name=Angamaly (M)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Ernakulam
+| subdivision_type3=Tahsil
+| subdivision_name3=Aluva
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=28.24
+| elevation_footnotes=
+| elevation_m=
+| population_total=33465
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1185
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Kochi (m corp. + og) ]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1022
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=()%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=803285
+| footnotes=
 }}
 
 == Angamaly (M) (803285) ==
 
+== Demography & Population ==
+
 Angamaly (M) is a town in the [[Aluva]] taluka of [[Ernakulam]] district with an area of 28.24 sq. km. and harbouring 8405 households with total population of 33465 as per the 2011 Census. The district headquarter [[Kakkanad]] is at a distance of 35 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 225 km. Male population is 16547 and female population is 16918. Scheduled Caste population is 1419 and Scheduled Tribes population is 68. Census Location Code of the town is 803285<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Municipality'.
 
 The nearest city with population more than 1 lakh is Kochi (m corp. + og)  at a distance of 35 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 35 km. Railway station is at Angamaly at a distance of 0 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Kochi (m corp. + og)  at a 
 
 
 == Literacy ==  
-* Total literate population: #N/A
+* Total literate population: () (()%)
 * Literate male population: () (()%)
 * Literate female population: () (()%)
 
@@ -117,8 +165,8 @@ There is 1 Agricultural Credit Society in the town.
 
 
 [[Categories:Ernakulam]]
-[[Categories:Aluva]]
-[[Categories:Ernakulam district towns]]
+[[Categories:Towns in Aluva tehsil)]]
+[[Categories:Towns in Ernakulam district)]]
 
 
 == References ==

@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627627
-|native_name=Mannarkad-I (CT)
-|subdivision_name3=Mannarkad
-|subdivision_name2=Palakkad
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Palakkad]]
-|subdivision_type3=[[Mannarkad]]
-|Nearest city=[[Palakkad (m)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=33.01
-|elevation_m=
-|population_total=34839
-|population_as_of=2011
-|population_density=1055
-|population_blank1=16658
-|population_blank2=18181
-|female_per_1000_male=1091
-|native_name_lang=[[Malayalam]]
+| name=Mannarkad-I (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Palakkad
+| subdivision_type3=Tahsil
+| subdivision_name3=Mannarkad
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=33.01
+| elevation_footnotes=
+| elevation_m=
+| population_total=34839
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1055
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Palakkad (m)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1091
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=81.24%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627627
+| footnotes=
 }}
 
 == Mannarkad-I (CT) (627627) ==
 
+== Demography & Population ==
+
 Mannarkad-I (CT) is a town in the [[Mannarkad]] taluka of [[Palakkad]] district with an area of 33.01 sq. km. and harbouring 7371 households with total population of 34839 as per the 2011 Census. The district headquarter [[Palakkad]] is at a distance of 40 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 406 km. Male population is 16658 and female population is 18181. Scheduled Caste population is 3147 and Scheduled Tribes population is 298. Census Location Code of the town is 627627<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Palakkad (m) at a distance of 40 km. The nearest city with population more than 5 lakh is Coimbatore(m corp. )  at a distance of 60 km. Railway station is at Palakkad at a distance of 40 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Palakkad (m) at a distance 
 
 
 == Literacy ==  
-* Total literate population: 28303
+* Total literate population: 28303 (81.24%)
 * Literate male population: 13788 (82.77%)
 * Literate female population: 14515 (79.84%)
 
@@ -117,8 +165,8 @@ There is 1 Agricultural Credit Society in the town.
 
 
 [[Categories:Palakkad]]
-[[Categories:Mannarkad]]
-[[Categories:Palakkad district towns]]
+[[Categories:Towns in Mannarkad tehsil)]]
+[[Categories:Towns in Palakkad district)]]
 
 
 == References ==

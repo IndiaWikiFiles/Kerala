@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627239
-|native_name=Pallikkunnu (CT)
-|subdivision_name3=Kannur
-|subdivision_name2=Kannur
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Kannur]]
-|subdivision_type3=[[Kannur]]
-|Nearest city=[[Kanhangad  (m + og)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=6.84
-|elevation_m=
-|population_total=27820
-|population_as_of=2011
-|population_density=4067
-|population_blank1=12732
-|population_blank2=15088
-|female_per_1000_male=1185
-|native_name_lang=[[Malayalam]]
+| name=Pallikkunnu (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Kannur
+| subdivision_type3=Tahsil
+| subdivision_name3=Kannur
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=6.84
+| elevation_footnotes=
+| elevation_m=
+| population_total=27820
+| population_as_of=2011
+| population_rank=
+| population_density_km2=4067
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Kanhangad  (m + og)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1185
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=88.62%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627239
+| footnotes=
 }}
 
 == Pallikkunnu (CT) (627239) ==
 
+== Demography & Population ==
+
 Pallikkunnu (CT) is a town in the [[Kannur]] taluka of [[Kannur]] district with an area of 6.84 sq. km. and harbouring 6125 households with total population of 27820 as per the 2011 Census. The district headquarter [[Kannur]] is at a distance of 9 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 504 km. Male population is 12732 and female population is 15088. Scheduled Caste population is 1238 and Scheduled Tribes population is 106. Census Location Code of the town is 627239<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Kanhangad  (m + og) at a distance of 63 km. The nearest city with population more than 5 lakh is Kozhikode (m corp. + og) at a distance of 94 km. Railway station is at Kannur at a distance of 9 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Kanhangad  (m + og) at a di
 
 
 == Literacy ==  
-* Total literate population: 24655
+* Total literate population: 24655 (88.62%)
 * Literate male population: 11252 (88.38%)
 * Literate female population: 13403 (88.83%)
 
@@ -117,8 +165,8 @@ There is 1 Non Agricultural Credit Society in the town.
 
 
 [[Categories:Kannur]]
-[[Categories:Kannur]]
-[[Categories:Kannur district towns]]
+[[Categories:Towns in Kannur tehsil)]]
+[[Categories:Towns in Kannur district)]]
 
 
 == References ==

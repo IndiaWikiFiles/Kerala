@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627682
-|native_name=Koduvayur (CT)
-|subdivision_name3=Chittur
-|subdivision_name2=Palakkad
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Palakkad]]
-|subdivision_type3=[[Chittur]]
-|Nearest city=[[Palakkad (m)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=11.47
-|elevation_m=
-|population_total=20703
-|population_as_of=2011
-|population_density=1804
-|population_blank1=10247
-|population_blank2=10456
-|female_per_1000_male=1020
-|native_name_lang=[[Malayalam]]
+| name=Koduvayur (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Palakkad
+| subdivision_type3=Tahsil
+| subdivision_name3=Chittur
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=11.47
+| elevation_footnotes=
+| elevation_m=
+| population_total=20703
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1804
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Palakkad (m)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1020
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=81.09%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627682
+| footnotes=
 }}
 
 == Koduvayur (CT) (627682) ==
 
+== Demography & Population ==
+
 Koduvayur (CT) is a town in the [[Chittur]] taluka of [[Palakkad]] district with an area of 11.47 sq. km. and harbouring 4827 households with total population of 20703 as per the 2011 Census. The district headquarter [[Palakkad]] is at a distance of 10 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 375 km. Male population is 10247 and female population is 10456. Scheduled Caste population is 3721 and Scheduled Tribes population is 11. Census Location Code of the town is 627682<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Palakkad (m) at a distance of 10 km. The nearest city with population more than 5 lakh is Coimbatore(m corp. )  at a distance of 65 km. Railway station is at Puthunagaram at a distance of 10 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Palakkad (m) at a distance 
 
 
 == Literacy ==  
-* Total literate population: 16789
+* Total literate population: 16789 (81.09%)
 * Literate male population: 8640 (84.32%)
 * Literate female population: 8149 (77.94%)
 
@@ -117,8 +165,8 @@ There are 2 [[Co-operative Bank]]s in the town.
 
 
 [[Categories:Palakkad]]
-[[Categories:Chittur]]
-[[Categories:Palakkad district towns]]
+[[Categories:Towns in Chittur tehsil)]]
+[[Categories:Towns in Palakkad district)]]
 
 
 == References ==

@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627772
-|native_name=Eyyal (CT)
-|subdivision_name3=Talappilly
-|subdivision_name2=Thrissur
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Thrissur]]
-|subdivision_type3=[[Talappilly]]
-|Nearest city=[[Thrissur (m corp.)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=6.37
-|elevation_m=
-|population_total=6727
-|population_as_of=2011
-|population_density=1056
-|population_blank1=3097
-|population_blank2=3630
-|female_per_1000_male=1172
-|native_name_lang=[[Malayalam]]
+| name=Eyyal (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Thrissur
+| subdivision_type3=Tahsil
+| subdivision_name3=Talappilly
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=6.37
+| elevation_footnotes=
+| elevation_m=
+| population_total=6727
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1056
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Thrissur (m corp.)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1172
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=83.38%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627772
+| footnotes=
 }}
 
 == Eyyal (CT) (627772) ==
 
+== Demography & Population ==
+
 Eyyal (CT) is a town in the [[Talappilly]] taluka of [[Thrissur]] district with an area of 6.37 sq. km. and harbouring 1579 households with total population of 6727 as per the 2011 Census. The district headquarter [[Thrissur]] is at a distance of 25 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 330 km. Male population is 3097 and female population is 3630. Scheduled Caste population is 906 and Scheduled Tribes population is 4. Census Location Code of the town is 627772<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class V (population_total 5,000 to 9,999).
+Population wise class of the town is Class V (Population 5,000 to 9,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Thrissur (m corp.) at a distance of 25 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 105 km. Railway station is at Wadakkanchery at a distance of 20 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Thrissur (m corp.) at a dis
 
 
 == Literacy ==  
-* Total literate population: 5609
+* Total literate population: 5609 (83.38%)
 * Literate male population: 2612 (84.34%)
 * Literate female population: 2997 (82.56%)
 
@@ -117,8 +165,8 @@ There is 1 [[Co-operative Bank]] in the town.
 
 
 [[Categories:Thrissur]]
-[[Categories:Talappilly]]
-[[Categories:Thrissur district towns]]
+[[Categories:Towns in Talappilly tehsil)]]
+[[Categories:Towns in Thrissur district)]]
 
 
 == References ==

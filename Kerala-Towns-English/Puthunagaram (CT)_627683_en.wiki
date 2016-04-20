@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627683
-|native_name=Puthunagaram (CT)
-|subdivision_name3=Chittur
-|subdivision_name2=Palakkad
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Palakkad]]
-|subdivision_type3=[[Chittur]]
-|Nearest city=[[Palakkad (m)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=8.1
-|elevation_m=
-|population_total=17892
-|population_as_of=2011
-|population_density=2208
-|population_blank1=8879
-|population_blank2=9013
-|female_per_1000_male=1015
-|native_name_lang=[[Malayalam]]
+| name=Puthunagaram (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Palakkad
+| subdivision_type3=Tahsil
+| subdivision_name3=Chittur
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=8.1
+| elevation_footnotes=
+| elevation_m=
+| population_total=17892
+| population_as_of=2011
+| population_rank=
+| population_density_km2=2208
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Palakkad (m)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1015
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=78.17%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627683
+| footnotes=
 }}
 
 == Puthunagaram (CT) (627683) ==
 
+== Demography & Population ==
+
 Puthunagaram (CT) is a town in the [[Chittur]] taluka of [[Palakkad]] district with an area of 8.1 sq. km. and harbouring 3844 households with total population of 17892 as per the 2011 Census. The district headquarter [[Palakkad]] is at a distance of 20 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 370 km. Male population is 8879 and female population is 9013. Scheduled Caste population is 2695 and Scheduled Tribes population is 25. Census Location Code of the town is 627683<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class IV (population_total 10,000 to 19,999).
+Population wise class of the town is Class IV (Population 10,000 to 19,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Palakkad (m) at a distance of 20 km. The nearest city with population more than 5 lakh is Coimbatore(m corp. )  at a distance of 66 km. Railway station is at Palakkad at a distance of 25 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Palakkad (m) at a distance 
 
 
 == Literacy ==  
-* Total literate population: 13987
+* Total literate population: 13987 (78.17%)
 * Literate male population: 7331 (82.57%)
 * Literate female population: 6656 (73.85%)
 
@@ -117,8 +165,8 @@ There is 1 Nationalised Bank in the town.
 
 
 [[Categories:Palakkad]]
-[[Categories:Chittur]]
-[[Categories:Palakkad district towns]]
+[[Categories:Towns in Chittur tehsil)]]
+[[Categories:Towns in Palakkad district)]]
 
 
 == References ==

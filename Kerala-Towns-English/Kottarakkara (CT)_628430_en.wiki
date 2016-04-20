@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=628430
-|native_name=Kottarakkara (CT)
-|subdivision_name3=Kottarakkara
-|subdivision_name2=Kollam
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Kollam]]
-|subdivision_type3=[[Kottarakkara]]
-|Nearest city=[[Kollam (m corp. + og) ]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=17.39
-|elevation_m=
-|population_total=29788
-|population_as_of=2011
-|population_density=1712
-|population_blank1=14075
-|population_blank2=15713
-|female_per_1000_male=1116
-|native_name_lang=[[Malayalam]]
+| name=Kottarakkara (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Kollam
+| subdivision_type3=Tahsil
+| subdivision_name3=Kottarakkara
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=17.39
+| elevation_footnotes=
+| elevation_m=
+| population_total=29788
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1712
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Kollam (m corp. + og) ]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1116
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=88.13%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=628430
+| footnotes=
 }}
 
 == Kottarakkara (CT) (628430) ==
 
+== Demography & Population ==
+
 Kottarakkara (CT) is a town in the [[Kottarakkara]] taluka of [[Kollam]] district with an area of 17.39 sq. km. and harbouring 7669 households with total population of 29788 as per the 2011 Census. The district headquarter [[Kollam]] is at a distance of 27 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 72 km. Male population is 14075 and female population is 15713. Scheduled Caste population is 4234 and Scheduled Tribes population is 78. Census Location Code of the town is 628430<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Kollam (m corp. + og)  at a distance of 27 km. The nearest city with population more than 5 lakh is Thiruvananthapuarm (m corp. + og) at a distance of 72 km. Railway station is at Kottarakkara at a distance of 0 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Kollam (m corp. + og)  at a
 
 
 == Literacy ==  
-* Total literate population: 26252
+* Total literate population: 26252 (88.13%)
 * Literate male population: 12460 (88.53%)
 * Literate female population: 13792 (87.77%)
 
@@ -117,8 +165,8 @@ There are 3 Non Agricultural Credit Societys in the town.
 
 
 [[Categories:Kollam]]
-[[Categories:Kottarakkara]]
-[[Categories:Kollam district towns]]
+[[Categories:Towns in Kottarakkara tehsil)]]
+[[Categories:Towns in Kollam district)]]
 
 
 == References ==

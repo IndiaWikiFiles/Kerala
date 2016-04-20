@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627928
-|native_name=Pullur (CT)
-|subdivision_name3=Mukundapuram
-|subdivision_name2=Thrissur
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Thrissur]]
-|subdivision_type3=[[Mukundapuram]]
-|Nearest city=[[Thrissur (m corp.)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=7.82
-|elevation_m=
-|population_total=12656
-|population_as_of=2011
-|population_density=1618
-|population_blank1=5923
-|population_blank2=6733
-|female_per_1000_male=1136
-|native_name_lang=[[Malayalam]]
+| name=Pullur (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Thrissur
+| subdivision_type3=Tahsil
+| subdivision_name3=Mukundapuram
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=7.82
+| elevation_footnotes=
+| elevation_m=
+| population_total=12656
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1618
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Thrissur (m corp.)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1136
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=87.5%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627928
+| footnotes=
 }}
 
 == Pullur (CT) (627928) ==
 
+== Demography & Population ==
+
 Pullur (CT) is a town in the [[Mukundapuram]] taluka of [[Thrissur]] district with an area of 7.82 sq. km. and harbouring 3148 households with total population of 12656 as per the 2011 Census. The district headquarter [[Thrissur]] is at a distance of 28 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 280 km. Male population is 5923 and female population is 6733. Scheduled Caste population is 2146 and Scheduled Tribes population is 12. Census Location Code of the town is 627928<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class IV (population_total 10,000 to 19,999).
+Population wise class of the town is Class IV (Population 10,000 to 19,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Thrissur (m corp.) at a distance of 28 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 70 km. Railway station is at Irinjalakuda at a distance of 5 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Thrissur (m corp.) at a dis
 
 
 == Literacy ==  
-* Total literate population: 11074
+* Total literate population: 11074 (87.5%)
 * Literate male population: 5241 (88.49%)
 * Literate female population: 5833 (86.63%)
 
@@ -117,8 +165,8 @@ There is 1 Non Agricultural Credit Society in the town.
 
 
 [[Categories:Thrissur]]
-[[Categories:Mukundapuram]]
-[[Categories:Thrissur district towns]]
+[[Categories:Towns in Mukundapuram tehsil)]]
+[[Categories:Towns in Thrissur district)]]
 
 
 == References ==

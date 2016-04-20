@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627389
-|native_name=Menhaniam (CT)
-|subdivision_name3=Quilandy
-|subdivision_name2=Kozhikode
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Kozhikode]]
-|subdivision_type3=[[Quilandy]]
-|Nearest city=[[Kozhikode (m corp. + og)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=10.99
-|elevation_m=
-|population_total=15768
-|population_as_of=2011
-|population_density=1434
-|population_blank1=7450
-|population_blank2=8318
-|female_per_1000_male=1116
-|native_name_lang=[[Malayalam]]
+| name=Menhaniam (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Kozhikode
+| subdivision_type3=Tahsil
+| subdivision_name3=Quilandy
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=10.99
+| elevation_footnotes=
+| elevation_m=
+| population_total=15768
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1434
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Kozhikode (m corp. + og)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1116
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=84.66%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627389
+| footnotes=
 }}
 
 == Menhaniam (CT) (627389) ==
 
+== Demography & Population ==
+
 Menhaniam (CT) is a town in the [[Quilandy]] taluka of [[Kozhikode]] district with an area of 10.99 sq. km. and harbouring 3783 households with total population of 15768 as per the 2011 Census. The district headquarter [[Kozhikode]] is at a distance of 47 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 462 km. Male population is 7450 and female population is 8318. Scheduled Caste population is 1589 and Scheduled Tribes population is 65. Census Location Code of the town is 627389<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class IV (population_total 10,000 to 19,999).
+Population wise class of the town is Class IV (Population 10,000 to 19,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Kozhikode (m corp. + og) at a distance of 47 km. The nearest city with population more than 5 lakh is Kozhikode (m corp. + og) at a distance of 47 km. Railway station is at Quilandy at a distance of 22 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Kozhikode (m corp. + og) at
 
 
 == Literacy ==  
-* Total literate population: 13349
+* Total literate population: 13349 (84.66%)
 * Literate male population: 6463 (86.75%)
 * Literate female population: 6886 (82.78%)
 
@@ -117,8 +165,8 @@ There is 1 Agricultural Credit Society in the town.
 
 
 [[Categories:Kozhikode]]
-[[Categories:Quilandy]]
-[[Categories:Kozhikode district towns]]
+[[Categories:Towns in Quilandy tehsil)]]
+[[Categories:Towns in Kozhikode district)]]
 
 
 == References ==

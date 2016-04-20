@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=628232
-|native_name=Mannanchery (CT)
-|subdivision_name3=Ambalappuzha
-|subdivision_name2=Alappuzha
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Alappuzha]]
-|subdivision_type3=[[Ambalappuzha]]
-|Nearest city=[[Alappuzha (m + og)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=26.52
-|elevation_m=
-|population_total=32139
-|population_as_of=2011
-|population_density=1211
-|population_blank1=15599
-|population_blank2=16540
-|female_per_1000_male=1060
-|native_name_lang=[[Malayalam]]
+| name=Mannanchery (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Alappuzha
+| subdivision_type3=Tahsil
+| subdivision_name3=Ambalappuzha
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=26.52
+| elevation_footnotes=
+| elevation_m=
+| population_total=32139
+| population_as_of=2011
+| population_rank=
+| population_density_km2=1211
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Alappuzha (m + og)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1060
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=85.06%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=628232
+| footnotes=
 }}
 
 == Mannanchery (CT) (628232) ==
 
+== Demography & Population ==
+
 Mannanchery (CT) is a town in the [[Ambalappuzha]] taluka of [[Alappuzha]] district with an area of 26.52 sq. km. and harbouring 7637 households with total population of 32139 as per the 2011 Census. The district headquarter [[Alappuzha]] is at a distance of 8 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 160 km. Male population is 15599 and female population is 16540. Scheduled Caste population is 2143 and Scheduled Tribes population is 68. Census Location Code of the town is 628232<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Alappuzha (m + og) at a distance of 8 km. The nearest city with population more than 5 lakh is Kochi (m corp. + og)  at a distance of 55 km. Railway station is at Kalavoor at a distance of 8 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Alappuzha (m + og) at a dis
 
 
 == Literacy ==  
-* Total literate population: 27336
+* Total literate population: 27336 (85.06%)
 * Literate male population: 13534 (86.76%)
 * Literate female population: 13802 (83.45%)
 
@@ -117,8 +165,8 @@ There is 1 Non Agricultural Credit Society in the town.
 
 
 [[Categories:Alappuzha]]
-[[Categories:Ambalappuzha]]
-[[Categories:Alappuzha district towns]]
+[[Categories:Towns in Ambalappuzha tehsil)]]
+[[Categories:Towns in Alappuzha district)]]
 
 
 == References ==

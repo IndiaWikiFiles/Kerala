@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=627353
-|native_name=Valayam (CT)
-|subdivision_name3=Vadakara
-|subdivision_name2=Kozhikode
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Kozhikode]]
-|subdivision_type3=[[Vadakara]]
-|Nearest city=[[Kozhikode (m corp. + og)]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=22.09
-|elevation_m=
-|population_total=14328
-|population_as_of=2011
-|population_density=648
-|population_blank1=6801
-|population_blank2=7527
-|female_per_1000_male=1106
-|native_name_lang=[[Malayalam]]
+| name=Valayam (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Kozhikode
+| subdivision_type3=Tahsil
+| subdivision_name3=Vadakara
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=22.09
+| elevation_footnotes=
+| elevation_m=
+| population_total=14328
+| population_as_of=2011
+| population_rank=
+| population_density_km2=648
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Kozhikode (m corp. + og)]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1106
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=80.42%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627353
+| footnotes=
 }}
 
 == Valayam (CT) (627353) ==
 
+== Demography & Population ==
+
 Valayam (CT) is a town in the [[Vadakara]] taluka of [[Kozhikode]] district with an area of 22.09 sq. km. and harbouring 3187 households with total population of 14328 as per the 2011 Census. The district headquarter [[Kozhikode]] is at a distance of 65 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 495 km. Male population is 6801 and female population is 7527. Scheduled Caste population is 207 and Scheduled Tribes population is 218. Census Location Code of the town is 627353<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class IV (population_total 10,000 to 19,999).
+Population wise class of the town is Class IV (Population 10,000 to 19,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Kozhikode (m corp. + og) at a distance of 65 km. The nearest city with population more than 5 lakh is Kozhikode (m corp. + og) at a distance of 65 km. Railway station is at Vadakara at a distance of 23 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Kozhikode (m corp. + og) at
 
 
 == Literacy ==  
-* Total literate population: 11523
+* Total literate population: 11523 (80.42%)
 * Literate male population: 5714 (84.02%)
 * Literate female population: 5809 (77.18%)
 
@@ -117,8 +165,8 @@ There are 2 [[Co-operative Bank]]s in the town.
 
 
 [[Categories:Kozhikode]]
-[[Categories:Vadakara]]
-[[Categories:Kozhikode district towns]]
+[[Categories:Towns in Vadakara tehsil)]]
+[[Categories:Towns in Kozhikode district)]]
 
 
 == References ==

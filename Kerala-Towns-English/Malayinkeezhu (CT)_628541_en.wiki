@@ -1,33 +1,81 @@
 {{Infobox settlement
-|settlement_type=Town
-|[[Census 2011]] Location Code=628541
-|native_name=Malayinkeezhu (CT)
-|subdivision_name3=Neyyattinkara
-|subdivision_name2=Thiruvananthapuram
-|subdivision_name1=Kerala
-|Division=
-|subdivision_type2=[[Thiruvananthapuram]]
-|subdivision_type3=[[Neyyattinkara]]
-|Nearest city=[[Thiruvananthapuarm (m corp. + og) ]]
-|| latd =  xx | latm =  xx  | lats =  xx  | latNS = N=
-|| longd = xx | longm = xx | longs = xx | longEW = E=
-|pushpin_label_position=right
-|Area=16.38
-|elevation_m=
-|population_total=37350
-|population_as_of=2011
-|population_density=2280
-|population_blank1=18250
-|population_blank2=19100
-|female_per_1000_male=1046
-|native_name_lang=[[Malayalam]]
+| name=Malayinkeezhu (CT)
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Town
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Thiruvananthapuram
+| subdivision_type3=Tahsil
+| subdivision_name3=Neyyattinkara
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric
+| area_footnotes=
+| area_rank=
+| area_total_km2=16.38
+| elevation_footnotes=
+| elevation_m=
+| population_total=37350
+| population_as_of=2011
+| population_rank=
+| population_density_km2=2280
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages=
+| demographics1_title1=Official=
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Thiruvananthapuarm (m corp. + og) ]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1046
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=86.48%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=628541
+| footnotes=
 }}
 
 == Malayinkeezhu (CT) (628541) ==
 
+== Demography & Population ==
+
 Malayinkeezhu (CT) is a town in the [[Neyyattinkara]] taluka of [[Thiruvananthapuram]] district with an area of 16.38 sq. km. and harbouring 9684 households with total population of 37350 as per the 2011 Census. The district headquarter [[Thiruvananthapuarm]] is at a distance of 15 km. The state headquarter [[Thiruvananthapuram]] is at a distance of 15 km. Male population is 18250 and female population is 19100. Scheduled Caste population is 3807 and Scheduled Tribes population is 118. Census Location Code of the town is 628541<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
 
-Population wise class of the town is Class III (population_total 20,000 to 49,999).
+Population wise class of the town is Class III (Population 20,000 to 49,999).
 The civic status of the town is 'Census Town'.
 
 The nearest city with population more than 1 lakh is Thiruvananthapuarm (m corp. + og)  at a distance of 15 km. The nearest city with population more than 5 lakh is Thiruvananthapuarm (m corp. + og) at a distance of 15 km. Railway station is at Thiruvananthapuram at a distance of 15 km.
@@ -40,7 +88,7 @@ The nearest city with population more than 1 lakh is Thiruvananthapuarm (m corp.
 
 
 == Literacy ==  
-* Total literate population: 32302
+* Total literate population: 32302 (86.48%)
 * Literate male population: 16016 (87.76%)
 * Literate female population: 16286 (85.27%)
 
@@ -117,8 +165,8 @@ There are 3 [[Co-operative Bank]]s in the town.
 
 
 [[Categories:Thiruvananthapuram]]
-[[Categories:Neyyattinkara]]
-[[Categories:Thiruvananthapuram district towns]]
+[[Categories:Towns in Neyyattinkara tehsil)]]
+[[Categories:Towns in Thiruvananthapuram district)]]
 
 
 == References ==

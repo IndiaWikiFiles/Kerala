@@ -1,0 +1,246 @@
+{{Infobox settlement
+| name=Payam
+| native_name=
+| native_name_lang=
+| other_name=
+| nickname=
+| settlement_type=Village
+| image_skyline=
+| image_alt=
+| image_caption=
+| pushpin_map=India Kerala
+| pushpin_label_position=right
+| pushpin_map_alt=
+| pushpin_map_caption=Location in Kerala, India
+| latd=
+| latm=
+| lats=
+| latNS=
+| longd=
+| longm=
+| longs=
+| longEW=
+| coordinates_display=inline,title
+| subdivision_type=Country
+| subdivision_name={{flag|India}}
+| subdivision_type1=[[States and territories of India|State]]
+| subdivision_name1=Kerala 
+| subdivision_type2=[[List of districts of India|District]]
+| subdivision_name2=Kannur
+| subdivision_type3=Tahsil
+| subdivision_name3=Thalassery
+| website=
+| established_title=<!-- Established -->
+| established_date=
+| founder=
+| named_for=
+| government_type=
+| governing_body=
+| unit_pref=Metric=
+| area_footnotes=
+| area_rank=
+| area_total_km2=19.02
+| elevation_footnotes=
+| elevation_m=
+| population_total=15429
+| population_as_of=2011
+| population_rank=
+| population_density_km2=811
+| population_demonym=
+| population_footnotes=
+| demographics_type1=Languages
+| demographics1_title1=Official
+| demographics1_info1=[[Malayalam language|Malayalam]]
+| timezone1=[[Indian Standard Time|IST]]
+| utc_offset1==+5:30
+| postal_code_type=[[Postal Index Number|PIN]]
+| postal_code=670704
+| area_code_type=Telephone code
+| area_code=
+| registration_plate=
+| blank1_name_sec1=Nearest city
+| blank1_info_sec1=[[Mattannur]]
+| blank2_name_sec1=[[Human sex ratio|Sex ratio]]
+| blank2_info_sec1=1077 [[male|♂]]/[[female|♀]]
+| blank3_name_sec1=Literacy
+| blank3_info_sec1=85.51%
+| blank1_name_sec2=[[2011 Census of India|2011 census]] code
+| blank1_info_sec2=627253
+| footnotes=
+}}
+
+== Payam (627253) ==
+
+== Geographic Location and Population ==
+
+Payam is a village in the [[Thalassery]] taluka of [[Kannur]] district with an area of 1902 hectares and harbouring 3667 households with total population of 15429 as per the 2011 Census. The nearest town [[Mattannur]] is at a distance of 10 km. Male population is 7425 and female population is 8004. Scheduled Caste Population is 561 and Scheduled Tribes population is 358. Census Location Code of the village is 627253<ref>http://www.censusindia.gov.in/2011census/dchb/DCHB.html</ref>.
+
+
+== Literacy ==  
+* Total literate population: 13194 (85.51%)
+* Literate male population: 6460 (87.0%)
+* Literate female population: 6734 (84.13%)
+
+
+== Educational Facilities ==  
+There are 2 private [[Pre-primary]] [[School]]s in the village.
+There are 3 government [[Primary School]]s in the village.There is 1 private [[Primary School]] in the village.
+There are 2 government Middle Schools in the village.There is 1 private Middle School in the village.
+There is 1 private [[Secondary School]] in the village.
+The nearest [[Senior Secondary School]] (Chavassery) is at a distance of more than 10 km from the village.
+The nearest Degree College of Arts and Science and Commerce (Keezhur) is at a distance of 5 to 10 km from the village.
+The nearest Engineering College (Angadikadavu) is at a distance of more than 10 km from the village.
+The nearest Medical College (Ancharakandy) is at a distance of more than 10 km from the village.
+The nearest Management Institute (Mayyil) is at a distance of more than 10 km from the village.
+The nearest Polytechnic (Mattannur) is at a distance of more than 10 km from the village.
+The nearest Vocational Training School (Kannur) is at a distance of more than 10 km from the village.
+The nearest Non-formal Training Centre (Kannur) is at a distance of more than 10 km from the village.
+There is 1 private Special School for Disabled in the village.
+The nearest other educational facilities (Mattanur) is at a distance of more than 10 km from the village.
+
+
+== Medical Facilities (Government) ==
+The nearest Commumity health centre is at a distance of more than 10 km from the village.
+The nearest [[Primary health centre]] is at a distance of 5 to 10 km from the village.
+The nearest Primary health sub centre is at a distance of 5 to 10 km from the village.
+The nearest [[Maternity]] and child welfare centre is at a distance of more than 10 km from the village.
+The nearest T.B. clinic is at a distance of more than 10 km from the village.
+The nearest [[Allopathy]] hospital is at a distance of more than 10 km from the village.
+The nearest Alternative medicine hospital is at a distance of more than 10 km from the village.
+The nearest Dispensary is at a distance of less than 5 km from the village.
+The nearest Veterinary hospital is at a distance of less than 5 km from the village.
+The nearest Mobile health clinic is at a distance of less than 5 km from the village.
+The nearest Family welfare centre is at a distance of 5 to 10 km from the village.
+
+
+== Medical Facilities (Non-Government) ==
+There are 3 Out Patient medical facilitys in the village.
+
+There is 1 Charitable non Govt. hospital/Nursing home in the village.
+There are 3 Medical practitioner(s) with MBBS Degrees in the village.
+
+There are 4 Medical practitioner(s) with no degrees in the village.
+
+There is 1 Medicine Shop in the village.
+
+
+
+== Drinking Water ==
+Water from treated tap water is available in the village.
+Water from untreated tap water is available in the village.
+Water from covered wells is available in the village.
+Water from uncovered wells is available in the village.
+Water from Hand pumps is available in the village.
+Water from Tube wells / Bore wells is available in the village.
+Water from Springs is available in the village.
+Water from River / Canal is available in the village.
+Water from Tank / Pond / Lake is available in the village.
+
+
+== Sanitation ==
+Closed Drainage is not available in the village.
+Open Drainage is available in the village.
+Drain water is discharged directly into sewer plant.
+Area is covered under Total Sanitation Campaign (TSC).
+Community toilet including bath is not available in the village.
+Community toilet excluding bath is not available in the village.
+
+
+== Communication and Transport ==
+Post office is available in the village.
+Village [[pin code]] is 670704.
+Telephones (Land lines) is available in the village.
+Public call office is available in the village.
+Mobile phone coverage is available in the village.
+Internet cafes / Common service centre is not available in the village.The nearest Internet cafes / Common service centre is at a distance of less than 5 km from the village.
+Private courier is not available in the village.The nearest Private courier is at a distance of less than 5 km from the village.
+Public bus service is available in the village.
+Private bus service is available in the village.
+[[Railway station]] is not available in the village.The nearest [[Railway station]] is at a distance of more than 10 km from the village.
+Auto/Modified Auto is available in the village.
+Taxi is available in the village.
+Tractor is not available in the village.
+Village is not connected to a [[national highway]] .The nearest [[national highway]] is at a distance of more than 10 km from the village..
+Village is connected to a [[state highway]]  .
+Village is connected to a major district road    .
+Village is connected to a other district road  .
+
+
+
+
+
+
+
+== Market and Banking ==
+ATM is not available in the village.The nearest ATM is at a distance of less than 5 km from the village.
+Commercial Bank is available in the village.
+[[Co-operative Bank]] is available in the village.
+Agricultural Credit Society is not available in the village.The nearest Agricultural Credit Society is at a distance of less than 5 km from the village.
+Self-Help Group is available in the village.
+Public distribution system (PDS) shop is available in the village.
+Weekly Haat is not available in the village.The nearest Weekly Haat is at a distance of more than 10 km from the village.
+Agricultural marketing society is available in the village.
+
+
+== Health & Nutrition & Entertainment Amenities ==
+Integrated Child Development Scheme (Nutritional Centre) is not available in the village.The nearest Integrated Child Development Scheme (Nutritional Centre) is at a distance of less than 5 km from the village.
+Anganwadi Centre (Nutritional Centre) is available in the village.
+Others (Nutritional Centre) is not available in the village.The nearest Others (Nutritional Centre) is at a distance of 5 to 10 km from the village.
+ASHA (Accredited Social Health Activist is available in the village.
+Sports Field is available in the village.
+Cinema / Video Hall is not available in the village.The nearest Cinema / Video Hall is at a distance of 5 to 10 km from the village.
+[[Public Library]] is available in the village.
+Public Reading Room is available in the village.
+Newspaper Supply is available in the village.
+Assembly Polling station is available in the village.
+Birth & Death Registration Office is available in the village.
+
+
+== Electricity ==
+23 hrs of power supply for domestic use in summer (Apr-Sep) per day is available in the village.
+24 hrs of power supply for domestic use in winter (Oct-Mar) per day is available in the village.
+23 hrs of power supply for agricultural use in summer (Apr-Sep) per day is available in the village.
+24 hrs of power supply for agricultural use in winter (Oct-Mar) per day is available in the village.
+23 hrs of power supply for commercial use in summer (Apr-Sep) per day is available in the village.
+24 hrs of power supply for commercial use in winter (Oct-Mar) per day is available in the village.
+23 hrs of power supply for all users in summer (Apr-Sep) per day is available in the village.
+24 hrs of power supply for all users in winter (Oct-Mar) per day is available in the village.
+
+
+== Land Use ==
+Payam exhibits the following land use pattern (area in hectares):
+* [[Forest]]: 0
+* Area under Non-agricultural Uses: 404.32
+* Barren and Un-cultivable land: 0
+* Permanent Pastures and Other Grazing Lands: 0
+* Land Under Miscellaneous Tree Crops etc: 0
+* Culturable Waste Land: 0
+* Fallow lands other than current fallows: 8.09
+* Current Fallows: 0
+* Net Area Sown: 1489.59
+* Total Un-irrigated Land Area: 1207.48
+* Area irrigated by source: 290.2
+
+
+== [[Irrigation]] facilities ==
+Sources of irrigation are as follows (area in hectares):
+* Canals: 72.9
+* Wells/Tube-wells: 65.5
+* Tanks/Lakes: 26.3
+* Water Falls: 0
+* Others: 125.5
+
+
+== Manufacturing ==
+Payam is engaged in the manufacture of following items (in decreasing order of importance): Rubber
+
+
+[[Category:Kannur]]
+[[Category:Villages in Thalassery tehsil)]]
+[[Category:Villages in Kannur district)]]
+
+
+== References ==
+{{Reflist}}
+
+
